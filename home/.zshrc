@@ -58,5 +58,4 @@ alias logs='sudo tail -fn 25 /var/log/httpd/error_log'
 
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
 
-export PATH="$PATH:$HOME/.rubies/ruby-2.1.3/bin:/usr/bin/sass:/usr/bin/phpstorm/bin"
 export DISPLAY=localhost:102
