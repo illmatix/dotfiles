@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>system_php</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[system_php()]]></content>
-</snippet>

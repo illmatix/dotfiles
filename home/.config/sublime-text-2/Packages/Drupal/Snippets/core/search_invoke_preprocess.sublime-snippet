@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>search_invoke_preprocess</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[search_invoke_preprocess(${1:text})]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>blog_page_last</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[blog_page_last()]]></content>
-</snippet>

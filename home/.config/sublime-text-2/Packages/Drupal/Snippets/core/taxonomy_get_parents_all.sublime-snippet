@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>taxonomy_get_parents_all</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[taxonomy_get_parents_all(${1:tid})]]></content>
-</snippet>

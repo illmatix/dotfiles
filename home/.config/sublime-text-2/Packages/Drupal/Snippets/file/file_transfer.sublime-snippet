@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>file_transfer</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[file_transfer(${1:uri}, ${2:headers})]]></content>
-</snippet>

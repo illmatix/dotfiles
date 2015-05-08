@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>translation_menu</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[translation_menu()]]></content>
-</snippet>

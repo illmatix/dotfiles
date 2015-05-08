@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>overlay_exit</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[overlay_exit()]]></content>
-</snippet>

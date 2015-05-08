@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>url_is_external</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[url_is_external(${1:path})]]></content>
-</snippet>

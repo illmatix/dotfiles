@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>dashboard_forms</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[dashboard_forms()]]></content>
-</snippet>

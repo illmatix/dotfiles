@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>statistics_get</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[statistics_get(${1:nid})]]></content>
-</snippet>

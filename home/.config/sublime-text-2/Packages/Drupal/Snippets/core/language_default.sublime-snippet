@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>language_default</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[language_default(${1:, ${2:property}})]]></content>
-</snippet>

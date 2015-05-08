@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>image_default_style_save</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[image_default_style_save(${1:style})]]></content>
-</snippet>

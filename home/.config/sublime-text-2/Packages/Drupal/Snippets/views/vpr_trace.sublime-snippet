@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>vpr_trace</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[vpr_trace()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>list_themes</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[list_themes(${1:, ${2:refresh}})]]></content>
-</snippet>

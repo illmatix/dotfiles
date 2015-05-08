@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>image_desaturate_effect</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[image_desaturate_effect(${1:image}, ${2:data})]]></content>
-</snippet>

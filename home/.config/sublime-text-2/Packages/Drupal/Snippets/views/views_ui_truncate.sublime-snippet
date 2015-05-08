@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>views_ui_truncate</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[views_ui_truncate(${1:string}, ${2:length})]]></content>
-</snippet>

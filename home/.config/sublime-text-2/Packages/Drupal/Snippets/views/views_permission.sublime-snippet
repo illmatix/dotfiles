@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>views_permission</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[views_permission()]]></content>
-</snippet>

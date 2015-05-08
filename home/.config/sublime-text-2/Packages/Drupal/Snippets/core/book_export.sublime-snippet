@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>book_export</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[book_export(${1:type}, ${2:nid})]]></content>
-</snippet>

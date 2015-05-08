@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>overlay_trigger_refresh</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[overlay_trigger_refresh()]]></content>
-</snippet>

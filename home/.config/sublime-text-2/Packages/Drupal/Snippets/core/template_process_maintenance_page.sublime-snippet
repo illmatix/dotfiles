@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>template_process_maintenance_page</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[template_process_maintenance_page(${1:variables})]]></content>
-</snippet>

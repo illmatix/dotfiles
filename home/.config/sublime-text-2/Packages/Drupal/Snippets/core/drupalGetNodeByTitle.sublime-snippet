@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupalGetNodeByTitle</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupalGetNodeByTitle(${1:title}${2:, ${3:reset}})]]></content>
-</snippet>

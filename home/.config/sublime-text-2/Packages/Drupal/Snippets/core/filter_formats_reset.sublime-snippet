@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>filter_formats_reset</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[filter_formats_reset()]]></content>
-</snippet>

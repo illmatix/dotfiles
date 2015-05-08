@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>statistics_user_tracker</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[statistics_user_tracker()]]></content>
-</snippet>

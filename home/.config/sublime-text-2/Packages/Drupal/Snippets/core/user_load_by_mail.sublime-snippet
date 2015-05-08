@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>user_load_by_mail</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[user_load_by_mail(${1:mail})]]></content>
-</snippet>

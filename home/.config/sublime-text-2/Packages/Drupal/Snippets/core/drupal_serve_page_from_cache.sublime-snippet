@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_serve_page_from_cache</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_serve_page_from_cache(${1:tdClass $cache})]]></content>
-</snippet>

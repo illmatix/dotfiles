@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>update_themes_enabled</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[update_themes_enabled(${1:themes})]]></content>
-</snippet>

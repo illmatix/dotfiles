@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>aggregator_remove</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[aggregator_remove(${1:feed})]]></content>
-</snippet>

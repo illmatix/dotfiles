@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>update_fetch_data</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[update_fetch_data()]]></content>
-</snippet>

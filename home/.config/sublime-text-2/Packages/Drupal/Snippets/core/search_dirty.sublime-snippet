@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>search_dirty</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[search_dirty(${1:, ${2:word}})]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>overlay_theme</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[overlay_theme()]]></content>
-</snippet>

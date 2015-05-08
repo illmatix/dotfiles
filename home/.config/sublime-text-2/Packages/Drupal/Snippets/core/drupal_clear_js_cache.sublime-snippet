@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_clear_js_cache</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_clear_js_cache()]]></content>
-</snippet>

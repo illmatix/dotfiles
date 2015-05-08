@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>node_overview_types</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[node_overview_types()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>overlay_user_dismiss_message</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[overlay_user_dismiss_message()]]></content>
-</snippet>

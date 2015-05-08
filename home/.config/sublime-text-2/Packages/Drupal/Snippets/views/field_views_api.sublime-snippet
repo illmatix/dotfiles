@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>field_views_api</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[field_views_api()]]></content>
-</snippet>

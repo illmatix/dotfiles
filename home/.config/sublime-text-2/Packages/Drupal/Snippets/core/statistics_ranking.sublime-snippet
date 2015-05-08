@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>statistics_ranking</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[statistics_ranking()]]></content>
-</snippet>

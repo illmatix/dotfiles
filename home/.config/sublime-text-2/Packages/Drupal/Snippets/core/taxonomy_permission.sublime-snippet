@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>taxonomy_permission</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[taxonomy_permission()]]></content>
-</snippet>

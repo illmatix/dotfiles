@@ -1,1 +1,0 @@
-{"description": "A package for Drupal snippets, autocomplete support, and info file syntax highlighting for Sublime Text", "url": "https://github.com/robballou/drupal-sublimetext", "platforms": ["*"], "version": "2014.10.24.19.32.20", "sublime_text": "*", "dependencies": []}

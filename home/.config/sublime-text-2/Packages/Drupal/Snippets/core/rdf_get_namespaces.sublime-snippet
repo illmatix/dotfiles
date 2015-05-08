@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>rdf_get_namespaces</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[rdf_get_namespaces()]]></content>
-</snippet>

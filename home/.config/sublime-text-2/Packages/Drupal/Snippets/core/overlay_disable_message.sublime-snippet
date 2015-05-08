@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>overlay_disable_message</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[overlay_disable_message()]]></content>
-</snippet>

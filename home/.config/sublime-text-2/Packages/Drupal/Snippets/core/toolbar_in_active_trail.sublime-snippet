@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>toolbar_in_active_trail</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[toolbar_in_active_trail(${1:path})]]></content>
-</snippet>

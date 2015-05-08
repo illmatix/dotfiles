@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>shortcut_set_delete_access</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[shortcut_set_delete_access(${1:shortcut_set})]]></content>
-</snippet>

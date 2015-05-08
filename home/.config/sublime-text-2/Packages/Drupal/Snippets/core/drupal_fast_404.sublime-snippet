@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_fast_404</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_fast_404()]]></content>
-</snippet>

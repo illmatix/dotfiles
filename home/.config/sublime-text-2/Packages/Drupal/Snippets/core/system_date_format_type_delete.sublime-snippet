@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>system_date_format_type_delete</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[system_date_format_type_delete(${1:type})]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>theme_forum_form</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[theme_forum_form(${1:variables})]]></content>
-</snippet>

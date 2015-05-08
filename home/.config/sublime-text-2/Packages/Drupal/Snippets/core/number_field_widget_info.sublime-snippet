@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>number_field_widget_info</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[number_field_widget_info()]]></content>
-</snippet>

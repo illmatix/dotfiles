@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>poll_validate</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[poll_validate(${1:node}, ${2:form})]]></content>
-</snippet>

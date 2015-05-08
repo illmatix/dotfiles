@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>theme_field_ui_table</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[theme_field_ui_table(${1:variables})]]></content>
-</snippet>

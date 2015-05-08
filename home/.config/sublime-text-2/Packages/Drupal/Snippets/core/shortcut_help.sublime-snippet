@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>shortcut_help</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[shortcut_help(${1:path}, ${2:arg})]]></content>
-</snippet>

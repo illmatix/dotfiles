@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>profile_user_form_validate</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[profile_user_form_validate(${1:form}, ${2:form_state})]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>dblog_build_filter_query</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[dblog_build_filter_query()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>help_links_as_list</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[help_links_as_list()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>system_views_api</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[system_views_api()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>forum_page</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[forum_page(${1:, ${2:forum_term}})]]></content>
-</snippet>

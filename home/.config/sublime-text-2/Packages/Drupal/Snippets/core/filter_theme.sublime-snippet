@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>filter_theme</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[filter_theme()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>poll_insert</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[poll_insert(${1:node})]]></content>
-</snippet>

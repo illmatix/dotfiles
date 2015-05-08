@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>profile_theme</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[profile_theme()]]></content>
-</snippet>

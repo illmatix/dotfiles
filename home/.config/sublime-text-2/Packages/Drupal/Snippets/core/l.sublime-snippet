@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>l</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[l(${1:text}, ${2:path}${3:, ${4:options}})]]></content>
-</snippet>

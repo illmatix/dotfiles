@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>menu_parent_options_js</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[menu_parent_options_js()]]></content>
-</snippet>

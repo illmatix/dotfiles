@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>shortcut_block_info</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[shortcut_block_info()]]></content>
-</snippet>

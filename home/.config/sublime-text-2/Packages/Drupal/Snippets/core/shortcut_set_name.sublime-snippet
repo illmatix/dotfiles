@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>shortcut_set_name</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[shortcut_set_name(${1:number})]]></content>
-</snippet>

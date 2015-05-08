@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>simpletest_result_form</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[simpletest_result_form(${1:form}, ${2:form_state}, ${3:test_id})]]></content>
-</snippet>

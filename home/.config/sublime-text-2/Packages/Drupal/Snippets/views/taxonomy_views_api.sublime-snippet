@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>taxonomy_views_api</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[taxonomy_views_api()]]></content>
-</snippet>

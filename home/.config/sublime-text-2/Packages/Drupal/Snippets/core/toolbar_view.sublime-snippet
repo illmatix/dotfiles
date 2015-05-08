@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>toolbar_view</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[toolbar_view()]]></content>
-</snippet>

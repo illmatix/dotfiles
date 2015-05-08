@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>search_update_totals</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[search_update_totals()]]></content>
-</snippet>

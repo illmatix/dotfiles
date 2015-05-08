@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>initializeRegistry</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[initializeRegistry()]]></content>
-</snippet>

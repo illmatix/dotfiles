@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>theme_system_compact_link</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[theme_system_compact_link()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>image_scale_form</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[image_scale_form(${1:data})]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>node_preview</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[node_preview(${1:node})]]></content>
-</snippet>

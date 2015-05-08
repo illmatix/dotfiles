@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_encode_path</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_encode_path(${1:path})]]></content>
-</snippet>

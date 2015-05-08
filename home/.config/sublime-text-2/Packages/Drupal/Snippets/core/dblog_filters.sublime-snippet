@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>dblog_filters</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[dblog_filters()]]></content>
-</snippet>

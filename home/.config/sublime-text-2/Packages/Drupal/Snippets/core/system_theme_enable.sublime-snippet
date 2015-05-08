@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>system_theme_enable</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[system_theme_enable()]]></content>
-</snippet>

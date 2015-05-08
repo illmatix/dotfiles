@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_tempnam</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_tempnam(${1:directory}, ${2:prefix})]]></content>
-</snippet>

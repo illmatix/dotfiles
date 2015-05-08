@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>book_admin_overview</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[book_admin_overview()]]></content>
-</snippet>

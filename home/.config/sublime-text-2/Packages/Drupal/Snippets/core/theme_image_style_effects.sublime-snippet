@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>theme_image_style_effects</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[theme_image_style_effects(${1:variables})]]></content>
-</snippet>

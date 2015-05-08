@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>forum_menu</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[forum_menu()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_cron_run</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_cron_run()]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>shortcut_set_switch_access</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[shortcut_set_switch_access(${1:, ${2:account}})]]></content>
-</snippet>

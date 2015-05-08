@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_pre_render_styles</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_pre_render_styles(${1:elements})]]></content>
-</snippet>

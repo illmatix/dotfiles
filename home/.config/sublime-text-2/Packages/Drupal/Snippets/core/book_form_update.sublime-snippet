@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>book_form_update</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[book_form_update(${1:form}, ${2:form_state})]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>image_path_flush</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[image_path_flush(${1:path})]]></content>
-</snippet>

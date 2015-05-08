@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_sort_weight</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_sort_weight(${1:a}, ${2:b})]]></content>
-</snippet>

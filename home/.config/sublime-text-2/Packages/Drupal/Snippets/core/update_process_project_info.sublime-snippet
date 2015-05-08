@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>update_process_project_info</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[update_process_project_info(${1:projects})]]></content>
-</snippet>

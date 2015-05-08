@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_language_initialize</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_language_initialize()]]></content>
-</snippet>

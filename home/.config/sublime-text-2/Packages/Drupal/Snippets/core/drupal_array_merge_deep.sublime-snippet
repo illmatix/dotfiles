@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>drupal_array_merge_deep</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[drupal_array_merge_deep()]]></content>
-</snippet>

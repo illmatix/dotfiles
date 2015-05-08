@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>views_ui_cache_set</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[views_ui_cache_set(${1:view})]]></content>
-</snippet>

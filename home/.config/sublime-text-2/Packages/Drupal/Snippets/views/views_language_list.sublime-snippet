@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>views_language_list</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[views_language_list(${1:, ${2:field}${3:, ${4:all}}})]]></content>
-</snippet>

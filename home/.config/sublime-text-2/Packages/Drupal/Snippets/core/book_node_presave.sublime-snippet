@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>book_node_presave</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[book_node_presave(${1:node})]]></content>
-</snippet>

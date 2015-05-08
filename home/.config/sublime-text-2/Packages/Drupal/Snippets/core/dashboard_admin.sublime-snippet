@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>dashboard_admin</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[dashboard_admin(${1:, ${2:launch_customize}})]]></content>
-</snippet>

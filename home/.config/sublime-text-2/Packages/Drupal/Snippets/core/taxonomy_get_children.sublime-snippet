@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>taxonomy_get_children</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[taxonomy_get_children(${1:tid}${2:, ${3:vid}})]]></content>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>list_allowed_values_string</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[list_allowed_values_string(${1:values})]]></content>
-</snippet>

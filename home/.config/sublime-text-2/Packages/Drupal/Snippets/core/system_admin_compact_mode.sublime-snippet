@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>system_admin_compact_mode</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[system_admin_compact_mode()]]></content>
-</snippet>

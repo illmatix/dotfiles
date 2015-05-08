@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>taxonomy_get_vocabularies</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[taxonomy_get_vocabularies()]]></content>
-</snippet>

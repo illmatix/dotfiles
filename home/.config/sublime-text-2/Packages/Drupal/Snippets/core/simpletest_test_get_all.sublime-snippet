@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>simpletest_test_get_all</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[simpletest_test_get_all()]]></content>
-</snippet>

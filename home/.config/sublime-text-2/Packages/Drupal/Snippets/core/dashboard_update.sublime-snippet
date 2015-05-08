@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>dashboard_update</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[dashboard_update()]]></content>
-</snippet>

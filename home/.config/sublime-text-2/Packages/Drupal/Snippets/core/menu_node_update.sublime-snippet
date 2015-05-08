@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>menu_node_update</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[menu_node_update(${1:node})]]></content>
-</snippet>

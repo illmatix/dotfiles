@@ -1,5 +1,0 @@
-<snippet>
-	<tabTrigger>trigger_cron</tabTrigger>
-	<scope>source.php</scope>
-<content><![CDATA[trigger_cron()]]></content>
-</snippet>
