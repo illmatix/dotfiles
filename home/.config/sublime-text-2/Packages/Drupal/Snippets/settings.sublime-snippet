@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+$databases = array (
+  'default' =>
+  array (
+    'default' =>
+    array (
+      'database' => 'moxiesrebuild',
+      'username' => 'moxiesrebuild',
+      'password' => 'U4uyMEdivpXTSLpF_CjRsQsHAen8MczC',
+      'host' => 'localhost',
+      'port' => '',
+      'driver' => 'mysql',
+      'prefix' => '',
+    ),
+  ),
+);
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>$databases</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.php</scope>
+</snippet>

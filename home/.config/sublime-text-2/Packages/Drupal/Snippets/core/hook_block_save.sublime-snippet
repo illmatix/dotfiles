@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Implements hook_block_save().
+ */
+function ${TM_FILENAME/([^\.]+)\..*/$1/}_block_save(\$delta = '', \$edit = array()) {
+	$0
+}
+]]></content>
+	<tabTrigger>h.block_save</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
