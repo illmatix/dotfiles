@@ -59,3 +59,5 @@ alias logs='sudo tail -fn 25 /var/log/httpd/error_log'
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
 
 export DISPLAY=localhost:102
+
+export PATH=$PATH:/usr/lib/ruby/gems/1.8

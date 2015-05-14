@@ -1,0 +1,1 @@
+/home/chad/.homesick/repos/dotfiles/home/.irssi/scripts/awl.pl
