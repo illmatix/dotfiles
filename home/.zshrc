@@ -15,9 +15,23 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Load Tmux on start of new session
-if [[ ! $TERM =~ screen ]]; then
-    exec tmux
-fi
+#if [[ ! $TERM =~ screen ]]; thenev
+#	if tmux has-session -t DEV 2>/dev/null; then
+#		exec tmux -2 attach-session -t DEV
+#		exec tmux split -h -p 50
+#		exec tmux split -v -p 50
+#		exec tmux -a -n STAGING "ssh -A chad@staging.simplesimple.ca"
+#               exec tmux -a -n IRC "irssi"
+#                exec tmux split -h -p 22 -t IRC 		
+#	else 
+#		exec tmux -2 new-session -s DEV
+#		exec tmux split -h -p 50
+#		exec tmux split -v -p 50 
+#               exec tmux -a -n STAGING "ssh -A chad@staging.simplesimple.ca"
+#		exec tmux -a -n IRC "irssi"
+#		exec tmux split -h -p 22 -t IRC
+#	fi
+#fi
 
 # MAKE DER ZSH SING FOR ITS SUPPER
 autoload -Uz compinit promptinit
@@ -55,6 +69,7 @@ alias la='ls -lAFh'   #long list,show almost all,show type,human readable
 alias lr='ls -tRFh'   #sorted by date,recursive,show type,human readable
 alias lt='ls -ltFh'   #long list,sorted by date,show type,human readable
 alias logs='sudo tail -fn 25 /var/log/httpd/error_log'
+alias wdshow="drush wd-show --tail | ~/bin/wd-show/js/main.js"
 
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
 

@@ -1,1 +1,0 @@
-/home/chad/.homesick/repos/dotfiles/home/.irssi/scripts/nickcolor.pl
