@@ -15,23 +15,9 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Load Tmux on start of new session
-#if [[ ! $TERM =~ screen ]]; thenev
-#	if tmux has-session -t DEV 2>/dev/null; then
-#		exec tmux -2 attach-session -t DEV
-#		exec tmux split -h -p 50
-#		exec tmux split -v -p 50
-#		exec tmux -a -n STAGING "ssh -A chad@staging.simplesimple.ca"
-#               exec tmux -a -n IRC "irssi"
-#                exec tmux split -h -p 22 -t IRC 		
-#	else 
-#		exec tmux -2 new-session -s DEV
-#		exec tmux split -h -p 50
-#		exec tmux split -v -p 50 
-#               exec tmux -a -n STAGING "ssh -A chad@staging.simplesimple.ca"
-#		exec tmux -a -n IRC "irssi"
-#		exec tmux split -h -p 22 -t IRC
-#	fi
-#fi
+if command -v tmux>/dev/null; then
+  [[ ! $TERM =~ screen ]] && [ -z $TMUX ] && exec tmux
+fi
 
 # MAKE DER ZSH SING FOR ITS SUPPER
 autoload -Uz compinit promptinit
